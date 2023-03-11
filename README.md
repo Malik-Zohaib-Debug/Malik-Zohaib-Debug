@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zohaib Zahid</h1>
-<h3 align="center">Hi, I'm a student of software engineering and currently in the last year of my degree. I adopted this profession because of my passion. I love to work on projects related to web and always looking forward to learn new frameworks and tools which could ultimately boost my career. In the mean time I love to view other developer's code on GitHub to see how other can approach the same problem. I always wanted to collaborate with other developer's and work on challenging real-world problems with a Can-Do attitude. Feel free and contact me anytime. Stay blessed :).</h3>
+<h2 align="center">Hi, I'm a student of software engineering and currently in the last year of my degree. I adopted this profession because of my passion. I love to work on projects related to web and always looking forward to learn new frameworks and tools which could ultimately boost my career. In the mean time I love to view other developer's code on GitHub to see how other can approach the same problem. I always wanted to collaborate with other developer's and work on challenging real-world problems with a Can-Do attitude. Feel free and contact me anytime. Stay blessed :).</h2>
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
