@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malik-zohaib-debug&label=Profile%20views&color=0e75b6&style=flat" alt="malik-zohaib-debug" /> </p>
 
-- 🔭 I’m currently working on **University Final Year Project (Pneumonia Detection and Segmentation using deep learning)**
+- 🔭 I’m currently working on **University Final Year Project (Pneumonia Detection using deep learning and techniques)**
 
 - 🌱 I’m currently learning **react, data-structures and algorithms**
 
