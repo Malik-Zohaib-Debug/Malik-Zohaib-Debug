@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zohaib Zahid</h1>
-<h2 align="center">A passionate software engineering. Always wanted to work and collaborate on real-world projects with my team members to the best of my abilities. An ambitious person, always eager to learn with a can-do attitude.</h2>
+<h2 align="center">A passionate software engineer. Always wanted to work and collaborate on real-world projects with my team members to the best of my abilities. An ambitious person, always eager to learn with a can-do attitude.</h2>
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
